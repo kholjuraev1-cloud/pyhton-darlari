@@ -1,1 +1,1 @@
-# pyhton-darlari
+# python_asoslari.py
